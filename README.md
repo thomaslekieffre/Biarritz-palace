@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Site birritz palace</h1>
 
-<p align="center"><img src = "https://socialify.git.ci/thomaslekieffre/Challenge-Spikes-5-Etoiles/image?font=KoHo&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&theme=Light" /></p>
+<p align="center"><img src = "https://socialify.git.ci/thomaslekieffre/biarritz-palace/image?font=Rokkitt&language=1&name=1&owner=1&pattern=Brick%20Wall&theme=Light"></p>
 
 <p id="description">Ce site a été réalisée dans le cadre de la formation dyma  : "Tailwind 3, framework CSS moderne pour un design réactif"</p>
 
